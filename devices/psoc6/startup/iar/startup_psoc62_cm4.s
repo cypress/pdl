@@ -6,6 +6,7 @@
 ; * @date     08. March 2016
 ; ******************************************************************************/
 ;/*
+; * Copyright (c) 2018 Cypress Semiconductor
 ; * Copyright (c) 2009-2016 ARM Limited. All rights reserved.
 ; *
 ; * SPDX-License-Identifier: Apache-2.0
