@@ -11,9 +11,10 @@
 ********************************************************************************
 * \copyright
 * Copyright 2016-2018, Cypress Semiconductor Corporation. All rights reserved.
-* You may use this file only in accordance with the license, terms, conditions,
-* disclaimers, and limitations in the end user license agreement accompanying
-* the software package with which this file was provided.
+* SPDX-License-Identifier: Apache-2.0
+
+
+
 *******************************************************************************/
 
 #ifndef _CY8C6336BZI_BLD13_H_
